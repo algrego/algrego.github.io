@@ -1,1 +1,4 @@
-# A fabulous Earth Data Science Portfolio
+## Alison Gregory 
+- Email me at agregory@ucar.edu
+- [Alison Gregory's LinkedIn Profile](https://www.linkedin.com/in/alison-gregory/)
+- [Alison Gregory's Github Page](https://www.algrego.github.io)
