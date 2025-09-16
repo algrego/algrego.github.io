@@ -15,7 +15,7 @@ Questions I'd like to answer include
 - What skills in Earth Data Science are transferrable to my current work?
 - What resources are available to me through github and other free coding resources?
 
-![The San Juan Mountains are beautiful!](/assets/images/san-juan-mountains.jpg "San Juan Mountains")
+![Alison Gregory](/img/headshot.jpg "Alison Gregory")
 
 ### **Education**
 - Environmental Sociology / Political Science Bachelors, Colorado State University 2014
