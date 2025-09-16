@@ -2,7 +2,9 @@
 - Email me at agregory@ucar.edu
 - [Alison Gregory's LinkedIn Profile](https://www.linkedin.com/in/alison-gregory/)
 - [Alison Gregory's Github Page](https://github.com/algrego/algrego.github.io)
-<img src="img/headshot.jpeg" width="200" height="400">
+
+<img src="img/headshot.jpeg" width="200" height="300">
+
 Hello! Thanks for visiting my page. I am a social scientist working in the weather, water, and climate enterprise. My passion is in connecting groups of people to improve collaboration in the earth sciences and environmental efforts more broadly. I currently work as the Community Engagement Specialist for the Unified Forecast System (UFS). The UFS helps get research into operations for earth system models, helping support the National Weather Service mission to protect property and save lives.
 
 
