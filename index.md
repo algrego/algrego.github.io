@@ -30,4 +30,5 @@ Questions I'd like to answer include
 
 
 ### **Map Making Project - Bald Mountain Scenic Area**
+This is a map of Bald Mountain Scenic Area, one of the protected open spaces close to my home in Boulder County. It's a beautiful easy hike to get out and breathe the fresh air!
 <embed type="text/html" src="img/bald.html" width="600" height="600">
