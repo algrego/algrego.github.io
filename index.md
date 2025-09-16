@@ -29,5 +29,5 @@ Questions I'd like to answer include
 ## **Current Projects**
 
 
-### **Map Making Project**
-<embed type="text/html" src="/img/bald.html" width="600" height="600">
+### **Map Making Project - Bald Mountain Scenic Area**
+<embed type="text/html" src="img/bald.html" width="600" height="600">
