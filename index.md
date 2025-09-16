@@ -2,7 +2,7 @@
 - Email me at agregory@ucar.edu
 - [Alison Gregory's LinkedIn Profile](https://www.linkedin.com/in/alison-gregory/)
 - [Alison Gregory's Github Page](https://github.com/algrego/algrego.github.io)
-
+<img src="img/headshot.jpeg" width="200" height="400">
 Hello! Thanks for visiting my page. I am a social scientist working in the weather, water, and climate enterprise. My passion is in connecting groups of people to improve collaboration in the earth sciences and environmental efforts more broadly. 
 
 
@@ -15,7 +15,7 @@ Questions I'd like to answer include
 - What skills in Earth Data Science are transferrable to my current work?
 - What resources are available to me through github and other free coding resources?
 
-![Alison Gregory](img/headshot.jpeg "Alison Gregory")
+
 
 ### **Education**
 - Environmental Sociology / Political Science Bachelors, Colorado State University 2014
@@ -23,3 +23,5 @@ Questions I'd like to answer include
 - Atmospheric and Ocean Sciences, Bachelors, University of Colorado at Boulder 2023
 
 ### **Current Projects**
+
+![Shanahan Ridge Trail](https://richwolf.wordpress.com/wp-content/uploads/2015/07/shanahan-ridge-with-bergamot-3-10x5.jpg)
