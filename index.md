@@ -23,7 +23,7 @@ Questions I'd like to answer include
 - Environmental Sociology / Political Science Bachelors, Colorado State University 2014
 - Environmental Sociology, Masters, Colorado State University 2017
 - Atmospheric and Ocean Sciences, Bachelors, University of Colorado at Boulder 2023
-- 
+
 ![Shanahan Ridge Trail](https://richwolf.wordpress.com/wp-content/uploads/2015/07/shanahan-ridge-with-bergamot-3-10x5.jpg)
 
 ## **Current Projects**
