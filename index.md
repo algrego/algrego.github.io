@@ -30,7 +30,10 @@ Questions I'd like to answer include:
 
 ## **Current Projects**
 
+### **Annual Climate Data for Saint Louis, Missouri**
+In this project, I analyze temperature data from a weather station in Saint Louis, Missouri. This is the city I grew up in and always wondered if it was impacted by climate change in any way. [Click here to review the entire project](https://algrego.github.io/portfolio_posts/climate-portfolio-1)
 
-### **Map Making Project - Bald Mountain Scenic Area**
+### **Map Making Project - Bald Mountain Scenic Area in Boulder, Colorado**
 This is a map of Bald Mountain Scenic Area, one of the protected open spaces close to my home in Boulder County. It's a beautiful easy hike to get out and breathe the fresh air!
+
 <embed type="text/html" src="img/bald.html" width="600" height="600">
