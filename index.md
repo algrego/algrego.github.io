@@ -9,6 +9,11 @@
 
 Hello! Thanks for visiting my page. I am a social scientist working in the weather, water, and climate enterprise. My passion is in connecting groups of people to improve collaboration in the earth sciences and environmental efforts more broadly. I currently work as the Community Engagement Specialist for the Unified Forecast System (UFS). The UFS helps get research into operations for earth system models, helping support the National Weather Service mission to protect property and save lives.
 
+### **Sunshine Canyon - Precipation Dashboard**
+- [Click here] (https://dex.cocorahs.org/stations/CO-BO-617) to view my precipiation dashboard!
+
+The Community Collaborative Rain, Hail & Snow Network (CoCoRaHS) hosts a data dashboard that enables citizens to contribute precipiation data to our nation's weather monitoring systems. 
+"Volunteers working together to measure precipitation across the nation"
 
 ### **Earth Data Science Analytics Course**
 
